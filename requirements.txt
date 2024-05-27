@@ -6,7 +6,6 @@ numpy
 altair
 transformers
 sentence-transformers
-python-dotenv
 faiss-cpu
 chromadb
 torch==1.12.0
