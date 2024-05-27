@@ -1,0 +1,1 @@
+Questa chatbot, sviluppata in occasione dell'Hackatania, sfrutta le API di OpenAI per estrapolare risposte riguardo la raccolta differenziata, le normative vigenti riguardo lo smaltimento dei rifiuti, e il calendario per la raccolta dei rifiuti del comune di Catania. Tutti i link e i file da cui il bot attinge sono disponibili gratuitamente e liberamente sul web
